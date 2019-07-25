@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing:border-box;
+}
+h1{
+  position: sticky;
+  top: 10px;
+  background-color: peachpuff;
+  text-shadow: 3px 2px #CF8E80;
+}
+.four{
+  height: 325px;
+  width: 325px;
+  object-fit:cover;
+}
+.pics {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.one {
+  border: 12px peachpuff solid;
+}
+.four {
+  border: 12px peachpuff solid;
+}
+.eight {
+  border: 12px peachpuff solid;
+}
+.six {
+  border: 12px peachpuff solid;
+}
+.three {
+  border: 12px peachpuff solid;
+}
+.five {
+  border: 12px peachpuff solid;
+}
+.two {
+  border: 12px peachpuff solid;
+}
+.seven {
+  border: 12px peachpuff solid;
+}
+.nine {
+  border: 12px peachpuff solid;
+}
+.ten {
+  border: 12px peachpuff solid;
+}
+.eleven {
+  border: 12px peachpuff solid;
+}
+.twelve {
+  border: 12px peachpuff solid;
+}
+
+body{
+  background-color: peachpuff;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  /*font-family: 'Forum', cursive;*/
+
+}
